@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://IDMiller2020.github.io/blogsitemap.xml
